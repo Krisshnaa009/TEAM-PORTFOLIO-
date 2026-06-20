@@ -96,7 +96,6 @@ https://github.com/dhruvarajnikkam
 
 * Git
 * GitHub
-* Vercel
 
 ---
 
